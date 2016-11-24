@@ -1,5 +1,9 @@
 # Minimum-number-of-descending-subarrays--Greedy
-Decomposition in minimal number of decreasing subsequences, using Greedy algorithm. 
+Decomposition in minimal number of decreasing subsequences, using Greedy algorithm.  
+  
+*Author: Ioana-Sofia Pascu  
+University of Bucharest, Faculty of Mathematics and Computer Science, Department of Computer Science  
+Created: 11/11/2016*
 
 
 ##Task
